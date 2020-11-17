@@ -6,9 +6,6 @@ import android.arch.persistence.room.Entity;
 import android.arch.persistence.room.PrimaryKey;
 import android.support.annotation.NonNull;
 
-/**
- * Created by Navneet Krishna on 09/11/18.
- */
 @Entity(tableName = "issue_table")
 public class IssueModel {
 
