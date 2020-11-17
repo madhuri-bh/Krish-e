@@ -12,4 +12,4 @@ improve plant health.
 - [Madhuri BH](https://www.github.com/madhuri-bh)
 - [Kumuda DK ](https://www.github.com/kumudadk)
 - [Diya Acharya](https://www.github.com/diyaacharya)
-![alt tag](http://url/to/img.png)
+- ![icon](https://github.com/madhuri-bh/Krish-e/blob/master/3677d41d-2247-4662-9b10-fc224f82c87f.jpg)
